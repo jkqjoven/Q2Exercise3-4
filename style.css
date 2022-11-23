@@ -1,0 +1,52 @@
+	#div1 {
+	border-style: solid;
+	border-color: #283429;
+	margin: 15%;
+	padding: 12px;
+	}
+	#product {
+	font-family: 'Gamja Flower', cursive;
+	font-size: 14pt;
+	text-align: left;
+	margin-left: 20px;
+	margin-right: 20px;
+	}
+	#price {
+	margin-top: 25px;
+	margin-bottom: 25px;
+	font-family: 'Gamja Flower', cursive;
+	font-size: 100pt;
+	text-align: center;
+	}
+	body {
+	background-color: #FAFFA9;
+	}
+	img {
+	height: 50%;
+	width: 50%;
+	margin-left: 200px;
+	margin-right: 200px;
+
+	border: 1px solid #darkgoldenrod;
+	border-radius: 4px;
+	padding: 5px;
+	}
+	h4{
+	font-family: 'Pacifico', cursive;
+	font-size: 54pt;
+	text-align: center;
+	margin-top: 25px;
+	margin-bottom: 25px;
+	}
+	button {
+	border: none;
+	border-radius: 6px;
+	outline: 0;
+	display: inline-block;
+	padding: 12px;
+	background-color: #FA8FD1;
+	text-align: center;
+	cursor: pointer;
+	width: 100%;
+	font-size: 18px;
+	}
